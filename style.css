@@ -1,0 +1,14 @@
+button {
+  size: 10px;
+  margin-left: 5px;
+}
+.container {
+  box-sizing: content-box;
+  padding: 70px;
+}
+#againGame {
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
